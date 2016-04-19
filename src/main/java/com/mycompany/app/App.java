@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello Lizetian!" );
         System.out.println( "This is for LiuXindi Edit" );
+        System.out.println( "This is for Ding Jingwen Edit" );
     }
 }
